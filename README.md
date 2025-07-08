@@ -1,6 +1,5 @@
 # Bash-Port-Scanner
 Script en Bash para escanear puertos TCP (1-65535) usando "/dev/tcp/" sin herramientas externas
----
 
 ## 🚩 Características
 - Escaneo de todos los puertos de un host objetivo.
